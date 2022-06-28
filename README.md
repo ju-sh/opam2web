@@ -13,7 +13,7 @@ The latest release of opam2web is available via
 opam install opam2web
 ```
 
-### Prerequisties
+### Prerequisites
 
 - re [github.com/ocaml/ocaml-re](https://github.com/ocaml/ocaml-re)
 - uri [github.com/avsm/ocaml-uri](https://github.com/avsm/ocaml-uri)
